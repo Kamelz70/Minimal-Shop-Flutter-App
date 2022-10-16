@@ -1,4 +1,5 @@
 # shop_app
+![image](https://user-images.githubusercontent.com/56312212/196056845-2bf01e35-cc84-4b1d-8f50-b609cedc02c6.png)
 
 This is a flutter minimal shop App.
 

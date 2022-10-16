@@ -1,18 +1,9 @@
 # shop_app
 
-A new Flutter project.
+This is a flutter minimal shop App.
 
-## Getting Started
+The project uses Provider for state management, and Firebase for Authentication and real-time database to save and edit products.
+only owners of the products can change their data in the shop. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Minimal-Shop-Flutter-App
-# Minimal-Shop-Flutter-App
+Below is a quick video demo:
+https://drive.google.com/file/d/1JcoTydreKAFlkI8Q77yaKjbTcTFbvCCR/view?usp=sharing
